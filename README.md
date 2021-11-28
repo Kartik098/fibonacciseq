@@ -1,0 +1,2 @@
+# fibonacciseq
+ javascript practice
